@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Margins-->
+    <dimen name="half_margin">4dp</dimen>
+    <dimen name="single_margin">8dp</dimen>
+    <dimen name="double_margin">16dp</dimen>
+    <dimen name="triple_margin">24dp</dimen>
+
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="default_button_width">280dp</dimen>
+    <dimen name="map_info_window_width">250dp</dimen>
+</resources>

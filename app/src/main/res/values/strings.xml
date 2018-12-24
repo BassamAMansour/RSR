@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--App name-->
+    <string name="app_name">RSR</string>
+
+    <!--Activities Titles-->
+    <string name="title_activity_info">@string/over_rsr</string>
+    <string name="title_activity_assistance_request">@string/rsr_breakdown_assistance</string>
+    <string name="title_main_activity">RSR Revalidatieservice</string>
+
+    <string name="rsr_info_description">Met de hulpmiddelen van RSR blijft u mobiel. RSR is dé leverancier van hulpmiddelen in de regio Noordoost-Nederland. Gedegen kennis en jarenlange ervaring zit in ons DNA verweven en leidt tot het beste advies.\n\nWilt u meer weten over onze producten en diensten, kijk dan op www.rsr.nl of bezoek onze showrooms in Silvolde en Nieuwleusen. We zijn iedere werkdag geopend van 8.00 tot 17.00 uur. Hier kunt u diverse hulpmiddelen uitproberen en rustig bekijken wat goed bij uw situatie aansluit. Samen met u zoeken we naar het hulpmiddel dat bij u past. RSR maakt mensen mobiel.</string>
+    <string name="over_rsr">Over RSR</string>
+    <string name="rsr_breakdown_assistance">RSR Pechhulp</string>
+    <string name="call_rsr_now">Bel RSR nu</string>
+    <string name="call_now">Bel nu</string>
+    <string name="call_costs_title">Belkosten</string>
+    <string name="call_costs_message">9,4 cent per gesprek plus 2,8 cent per minuut, plus uw gebruikelijke belkosten.</string>
+    <string name="contact_rsr_netherland">Neem contact op met RSR Nederland</string>
+    <string name="allow_access_location_message">U moet de app toegang verlenen tot uw locatie.</string>
+    <string name="dialog_enable_gps_msg">Om verder te gaan, is het vereist om de GPS-dienst in te schakelen.</string>
+    <string name="dialog_enable_gps_title">Schakel GPS alstublieft in</string>
+    <string name="enable">In staat stellen</string>
+    <string name="cancel">Annuleer</string>
+    <string name="dialog_enable_inernet_title">Schakel internetverbinding in</string>
+    <string name="dialog_enable_internet_msg">Om door te gaan, is het verplicht tot uw internetverbinding.</string>
+    <string name="your_location">Uw Locatie</string>
+    <string name="remember_your_location">Onthoud deze locatie voor het telefoongesprek </string>
+    <string name="rsr_netherland_phone_number">+319007788990</string>
+    <string name="address_not_found">Adres niet gevonden</string>
+    <string name="allow_phone_call_message">Je moet toestemming geven om te bellen.</string>
+
+</resources>

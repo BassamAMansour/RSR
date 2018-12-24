@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="homeAsUpIndicator">@drawable/menu_arrow</item>
+        <item name="android:windowContentOverlay">@drawable/line_window_content_overlay</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="buttonsCommonStyle" parent="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">@dimen/default_button_width</item>
+        <item name="android:padding">@dimen/single_margin</item>
+        <item name="android:background">@drawable/main_btn_bg</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_marginStart">@dimen/triple_margin</item>
+        <item name="android:layout_marginEnd">@dimen/triple_margin</item>
+        <item name="android:drawablePadding">@dimen/double_margin</item>
+    </style>
+
+    <style name="textsCommonStyle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

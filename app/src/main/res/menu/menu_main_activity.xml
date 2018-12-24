@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_open_info_activity"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_rsr_info"
+        android:title="@string/over_rsr"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>

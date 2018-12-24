@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".activities.assistance_request.AssistanceRequestActivity"
+    tools:showIn="@layout/activity_assistance_request">
+
+    <Button
+        android:id="@+id/btn_open_call_now_dialog"
+        style="@style/buttonsCommonStyle"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/double_margin"
+        android:layout_marginBottom="@dimen/triple_margin"
+        android:drawableStart="@drawable/ic_phone"
+        android:text="@string/call_rsr_now" />
+</LinearLayout>

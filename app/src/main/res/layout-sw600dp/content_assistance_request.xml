@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparentBlue"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/triple_margin">
+
+    <TextView
+        style="@style/textsCommonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/double_margin"
+        android:text="@string/contact_rsr_netherland" />
+
+    <TextView
+        style="@style/textsCommonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/double_margin"
+        android:drawableStart="@drawable/ic_phone"
+        android:gravity="center"
+        android:text="@string/rsr_netherland_phone_number" />
+
+    <TextView
+        style="@style/textsCommonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/double_margin"
+        android:text="@string/call_costs_message" />
+
+</LinearLayout>
